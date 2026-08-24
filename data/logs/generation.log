@@ -1,0 +1,12 @@
+{"timestamp":"2026-08-20T20:54:50.905Z","event":"generation_started","jobId":"job_20260821_032450_5gipp","provider":"voxcpm2","backend":"local","consistencySeed":1298471747,"characters":1874,"chunks":11}
+{"timestamp":"2026-08-20T20:54:50.908Z","event":"chunk_started","jobId":"job_20260821_032450_5gipp","chunk":1,"chunks":11,"characters":152}
+{"timestamp":"2026-08-20T20:56:08.943Z","event":"generation_started","jobId":"job_20260821_032608_88l57","provider":"voxcpm2","backend":"local","consistencySeed":1298471747,"characters":1579,"chunks":11}
+{"timestamp":"2026-08-20T20:56:08.950Z","event":"chunk_started","jobId":"job_20260821_032608_88l57","chunk":1,"chunks":11,"characters":153}
+{"timestamp":"2026-08-20T20:59:50.942Z","event":"chunk_retry","jobId":"job_20260821_032450_5gipp","chunk":1,"chunks":11,"stage":"result","attempt":2,"error":"TimeoutError: Remote inference timed out."}
+{"timestamp":"2026-08-20T20:59:52.024Z","event":"generation_failed","jobId":"job_20260821_032450_5gipp","chunks":11,"error":"TypeError: terminated","publicMessage":"VoxCPM2 remote inference failed"}
+{"timestamp":"2026-08-20T21:01:09.012Z","event":"chunk_retry","jobId":"job_20260821_032608_88l57","chunk":1,"chunks":11,"stage":"result","attempt":2,"error":"TimeoutError: Remote inference timed out."}
+{"timestamp":"2026-08-20T21:01:09.701Z","event":"generation_failed","jobId":"job_20260821_032608_88l57","chunks":11,"error":"TypeError: terminated","publicMessage":"VoxCPM2 remote inference failed"}
+{"timestamp":"2026-08-20T21:01:46.907Z","event":"generation_started","jobId":"job_20260821_033146_thi8u","provider":"voxcpm2","backend":"local","consistencySeed":1298471747,"characters":441,"chunks":3}
+{"timestamp":"2026-08-20T21:01:46.912Z","event":"chunk_started","jobId":"job_20260821_033146_thi8u","chunk":1,"chunks":3,"characters":169}
+{"timestamp":"2026-08-20T21:04:53.126Z","event":"generation_started","jobId":"job_20260821_033453_ubmiv","provider":"voxcpm2","backend":"local","consistencySeed":636791873,"characters":441,"chunks":3}
+{"timestamp":"2026-08-20T21:04:53.146Z","event":"chunk_started","jobId":"job_20260821_033453_ubmiv","chunk":1,"chunks":3,"characters":169}
